@@ -4,3 +4,4 @@ The Pakistan Super League (PSL) is a premier professional men's Twenty20 cricket
 # Content¶
 Season 9 of the Pakistan Super League (PSL) was a thrilling cricketing spectacle that ran from February 17 to March 18, 2024. Hosted across four cities in Pakistan, the tournament featured 34 matches showcasing a blend of local and international cricketing talent. Islamabad United clinched their third title by defeating Multan Sultans in a nail-biting final, while players like Babar Azam and Usama Mir made headlines with their outstanding performances.
 
+Kaggle pfofile[click](https://www.kaggle.com/code/hammadansari7/m-rizwan-psl-9)
